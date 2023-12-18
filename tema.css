@@ -1,0 +1,26 @@
+/* Halloween Styles */
+body {
+    background-color: #a6c1a5;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #133419;
+}
+
+.container {
+    width: 100%;
+    margin: auto;
+
+}
+
+.header img {
+    width: 60px;
+    height: 60px;
+}
+
+.under-text {
+    font-size: 24px;
+    color: #FF6600;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/* Rest of your existing CSS for the Halloween theme */
+/* ... */
