@@ -55,6 +55,14 @@ Bagian 4 : State Management
 
 Fungsi session_start() adalah fungsi PHP yang berperan dalam memulai atau melanjutkan sesi pada server. Sesuai dengan konsep dasar pengelolaan sesi, panggilan ini harus dilakukan sebelum mengakses atau menyimpan data sesi. Setelah pengguna berhasil login melalui $classhandle->validateUser, yang kemungkinan merupakan metode untuk memvalidasi kredensial pengguna, data pengguna seperti nama pengguna disimpan dalam $_SESSION['user']. Ini memungkinkan data tersebut dapat diakses dan dipertahankan di seluruh sesi pengguna.
 
+Tampilan Registrasi
+![uas3](https://github.com/212Egin/121140212_Elika-Eugenia-Ramadhania_UAS-Pemweb_RB/assets/118003630/dcf79851-2432-47ec-8462-80501c557276)
+
+Tampilan Login
+![uas2](https://github.com/212Egin/121140212_Elika-Eugenia-Ramadhania_UAS-Pemweb_RB/assets/118003630/33cfbb62-62ea-43cd-97c1-25d838849a9f)
+
+Tampilan Main Page
+![uas1](https://github.com/212Egin/121140212_Elika-Eugenia-Ramadhania_UAS-Pemweb_RB/assets/118003630/1693c455-a7c5-4ced-845c-5aabc33567d3)
 
 
 
